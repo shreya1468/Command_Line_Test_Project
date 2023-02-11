@@ -1,0 +1,50 @@
+1. Identify the command which is used to remove files.
+   a) delete
+   b) rm
+   c) dm
+   d) erase
+2. What is the core of Linux Operating System ?
+   a) Terminal
+   b) Kernel
+   c) Command
+   d) None 
+3. Which command is used for reading user's input ?
+   a) echo
+   b) read
+   c) cat
+   d) ls
+4. What is the command for print file ?
+   a) ls
+   b) echo
+   c) cat
+   d) read
+5. Identify the OS which is not based on linux.
+   a) Ubuntu
+   b) BSD
+   c) CentOS
+   d) Red Hat
+6. Which command is used to display the operating system name ?
+   a) wc
+   b) uname
+   c) countw
+   d) os
+7. Which option of ls command used to view file inode number ?
+   a) -l
+   b) -i
+   c) -o
+   d) -a
+8. Which of the following sign is used to represent the user home directory ?
+   a) /
+   b) .
+   c) ~
+   d) ..
+9. Which of the following is used to represent the top-level directory ?
+   a) /
+   b) *
+   c) $
+   d) #
+10. Linux Kernel is founded by ?
+    a) Richard Stallman
+    b) Linus Torvalds
+    c) Bill Gates
+    d) Ben Thomas
